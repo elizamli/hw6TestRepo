@@ -4,6 +4,8 @@ public class ExactSameClass {
     private int meepleCount;
     private final int playerId;
     private int score;
+    private static final String word = "hello what is up";
+
 
     private static final int INIT_MEEPLE_COUNT = 7;
 
