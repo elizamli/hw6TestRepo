@@ -6,7 +6,7 @@ public class ExactSameClass {
     private int score;
     private static final String word = "hello what is up";
 
-
+    // hello hi
     private static final int INIT_MEEPLE_COUNT = 7;
 
     public ExactSameClass(int playerId) {
