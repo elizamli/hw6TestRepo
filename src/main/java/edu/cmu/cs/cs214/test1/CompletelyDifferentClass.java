@@ -4,7 +4,6 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toMap;
 
-
 public class CompletelyDifferentClass {
     int first = 0;
 
